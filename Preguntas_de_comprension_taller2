@@ -1,0 +1,7 @@
+1. la ventaja que tienen los diagramas es darle un order y especificidad de antemado para ahorrar tiempo y trrabajo adme¿as de mantener un orden en el desarroyo del codigo.
+
+2. el titulo del diagrama, es la clase, por ejemplo "Cancion", lo que le siguen son sus atributos como "nombre"artista" y "duracion". por ultimo sus metodos que son las acciones a ejecutar
+
+3. un comentario es solo de una linea y un bloque puede ocupar varias
+
+4. porque no todos desarrollan de la misma forma y por ejemplo en un proyecto en conjunto no es seguro que puedan entender la logica del codigo que desarrollo alguien mas, la documentacion lo aclara y evita esos problemas
